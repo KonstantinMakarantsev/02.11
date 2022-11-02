@@ -1,0 +1,17 @@
+form {
+  width: 200px;
+  height: 100px;
+  text-align: center;
+  align-items: center;
+  background-color: chocolate;
+}
+
+body {
+  background-color: bisque;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: medium;
+  font-family: sans-serif;
+  height: 600px;
+}
